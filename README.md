@@ -64,7 +64,7 @@ npm install
 
 ### 3. Clonar o repositório (ou baixar o ZIP do projeto)
 ```bash
-git clone https://github.com/seu-usuario/painel-posicoes-react.git
+https://github.com/MuriloMFV/painel-posicoes-react.git
 cd painel-posicoes-react
 ```
 
