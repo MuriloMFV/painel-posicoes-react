@@ -74,7 +74,11 @@ cd painel-posicoes-react
 
 ```bash
 cd painel-posicoes-react\proxy-api 
-node index.js
+npm install express
+```
+
+```bash
+npm install express cors dotenv
 ```
 ### 5. Rodar o Projeto
 
